@@ -7736,7 +7736,7 @@ q===$&&A.b()
 q.oI$="https://backend-dashboard.onrender.com"
 q.w=!0
 s=A.cc(J.bf($.JN.dr().a,"token"))
-q.sQ0(0,A.au(["Authorization","Bearer "+(s==null?"":s)],t.N,t.z))
+q.sQ0(0,A.au(["Authorization","Bearer "+(s==null?"":s),"Access-Control-Allow-Origin","https://illustrious-concha-a68f0b.netlify.app/","Access-Control-Allow-Methods","POST, PUT, GET, OPTIONS, DELETE","Access-Control-Allow-Headers","Origin, Authorization","Access-Control-Allow-Credentials","true"],t.N,t.z))
 r=r.ws$
 r===$&&A.b()
 r.sCZ(0,"application/json; charset=utf-8")},
