@@ -7733,7 +7733,7 @@ Kz:function Kz(){},
 OH:function OH(){},
 aqT(){var s,r=$.w9(),q=r.ws$
 q===$&&A.b()
-q.oI$="https://backend-dashboard.onrender.com"
+q.oI$="https://backend-dashboard.onrender.com/api/v1"
 q.w=!0
 s=A.cc(J.bf($.JN.dr().a,"token"))
 q.sQ0(0,A.au(["Authorization","Bearer "+(s==null?"":s)],t.N,t.z))
